@@ -1,7 +1,7 @@
 TextSecure
 =================
 
-A secure text messaging application for Android.
+Android安全短信应用.
 
 TextSecure is a replacement for the standard text messaging application, allowing you to send and receive text messages as normal.  Additionally, TextSecure provides:
 
